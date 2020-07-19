@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="138daa21-7caf-4d05-aff1-b2063a961f91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ejLcQlI6R5QasGBYFQ6utZkCWX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="JUnit.BuscarLaOrdenDeCompraRunner">
+    <configuration name="AgregarMascotaRunner" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Servicios_PetStore_POM.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.petstore.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.petstore.runners" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.petstore.runners.AgregarMascotaRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgregarMascotaRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;io.swagger.petstore.runners.AgregarMascotaRunner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PedidoDeUnaMascotaRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;io.swagger.petstore.runners.PedidoDeUnaMascotaRunner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AgregarMascotaRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Servicios_PetStore_POM.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.petstore.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.petstore.runners" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.petstore.runners.AgregarMascotaRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuscarLaOrdenDeCompraRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Servicios_PetStore_POM.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.petstore.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.petstore.runners" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.petstore.runners.BuscarLaOrdenDeCompraRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BuscarLaOrdenDeCompraRunner" />
+        <item itemvalue="Gradle.PedidoDeUnaMascotaRunner" />
+        <item itemvalue="JUnit.AgregarMascotaRunner" />
+        <item itemvalue="Gradle.AgregarMascotaRunner" />
+        <item itemvalue="Android JUnit.AgregarMascotaRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138daa21-7caf-4d05-aff1-b2063a961f91" name="Default Changelist" comment="" />
+      <created>1594830133122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594830133122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="6" key="#&lt;template&gt;_of_JUnit" timestamp="1594841582991">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="283" y="6" key="#&lt;template&gt;_of_JUnit/0.0.1360.728@0.0.1360.728" timestamp="1594841582991" />
+    <state x="400" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594834684749">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="400" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1594834684749" />
+    <state x="460" y="123" key="FileChooserDialogImpl" timestamp="1594846190523">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="123" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1594846190523" />
+    <state width="888" height="32" key="GridCell.Tab.0.bottom" timestamp="1595131911603">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="888" height="32" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1595131911603" />
+    <state width="888" height="32" key="GridCell.Tab.0.center" timestamp="1595131911603">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="888" height="32" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1595131911603" />
+    <state width="888" height="32" key="GridCell.Tab.0.left" timestamp="1595131911603">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="888" height="32" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1595131911603" />
+    <state width="888" height="32" key="GridCell.Tab.0.right" timestamp="1595131911603">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="888" height="32" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1595131911603" />
+    <state x="489" y="0" width="887" height="705" key="dock-window-1" timestamp="1594845569532">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="489" y="0" width="887" height="705" key="dock-window-1/0.0.1360.728@0.0.1360.728" timestamp="1594845569532" />
+    <state x="342" y="176" key="run.anything.popup" timestamp="1594841002498">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="342" y="176" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1594841002498" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/petstore/stepdefinitions/BuscarLaOrdenDeCompraStepDefinitions.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
