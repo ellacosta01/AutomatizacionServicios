@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="[create_user] Crear usuario" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-19T19:37:51" hostname="SQAT1MDEWIN61" time="0.017">
+  <properties/>
+  <testcase name="[1:6] Crear usuario Exitoso" classname="[create_user] Crear usuario" time="0.017">
+    <failure message="com.intuit.karate.exception.KarateException: -unknown-:4 - could not find or read file: src&#9;estjavacreateusercreate_user_request.json" type="com.intuit.karate.exception.KarateException">com.intuit.karate.exception.KarateException: -unknown-:4 - could not find or read file: src	estjavacreateusercreate_user_request.json
+	at ✽.* def responseExpected = read('src\test\java\createuser\create_user_request.json') (-unknown-:4)
+</failure>
+  </testcase>
+  <system-out><![CDATA[14:37:51.215 [Test worker] ERROR com.intuit.karate.FileUtils - feature relative path resolution failed: Illegal char <	> at index 3: src	estjavacreateusercreate_user_request.json
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
